@@ -1,5 +1,4 @@
 # Hi, I'm Muhammad Talha
-
 Full-Stack Developer with **2+ years of professional experience** building production web applications, REST APIs, microservices, and cloud-based systems.
 
 I work across the stack with **React, Next.js, TypeScript, Node.js, NestJS, Django, Ruby on Rails, PostgreSQL, Docker, and AWS**.
