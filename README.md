@@ -1,6 +1,4 @@
-# Hi, I'm Muhammad Talha 👋
-
-### Full-Stack Developer · React · Next.js · Node.js · Python · AWS
+# Hi, I'm Muhammad Talha
 
 Full-Stack Developer with **2+ years of professional experience** building production web applications, REST APIs, microservices, and cloud-based systems.
 
