@@ -3,7 +3,6 @@ Full-Stack Developer with **2+ years of professional experience** building produ
 
 I work across the stack with **React, Next.js, TypeScript, Node.js, NestJS, Django, Ruby on Rails, PostgreSQL, Docker, and AWS**.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -19,13 +18,11 @@ I work across the stack with **React, Next.js, TypeScript, Node.js, NestJS, Djan
 
 **AI:** Generative AI · Machine Learning · Deep Learning · Computer Vision · Text-to-Speech
 
----
 
 ## 🎯 Currently Exploring
 
 **Artificial Intelligence · Generative AI · AWS · Cloud Architecture · Scalable Systems**
 
----
 
 ## 📫 Connect With Me
 
